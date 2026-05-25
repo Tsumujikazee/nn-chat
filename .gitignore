@@ -2,3 +2,5 @@ node_modules/
 *.log
 yarn.lock
 .env
+users.htpasswd
+pd.text
